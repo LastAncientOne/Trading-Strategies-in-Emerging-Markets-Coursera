@@ -1,2 +1,2 @@
 # Trading-Strategies-in-Emerging-Markets-Coursera
-Design your own Tradign Strategy
+Design your own Trading Strategy
