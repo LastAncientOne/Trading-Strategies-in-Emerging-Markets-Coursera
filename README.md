@@ -1,4 +1,4 @@
-# Trading-Strategies-in-Emerging-Markets-Coursera
+# Trading Strategies in Emerging Markets Coursera
 ## Online course:
 https://www.coursera.org/specializations/trading-strategy
 
