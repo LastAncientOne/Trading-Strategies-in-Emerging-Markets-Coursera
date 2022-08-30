@@ -14,9 +14,8 @@ This is online project in Trading-Strategies-in-Emerging-Markets-Coursera and "D
 # Prerequistes
 Python 3.5+
 
-Jupyter Notebook Python 3
+Jupyter Notebook Python 3  
 
-
-## Authors
-* Tin Hang
+## Authors  
+### * Tin Hang
 
