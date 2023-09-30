@@ -16,6 +16,6 @@ Python 3.5+
 
 Jupyter Notebook Python 3  
 
-## Authors  
-### * Tin Hang
+## Author:    
+### Tin Hang
 
