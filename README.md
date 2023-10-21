@@ -19,3 +19,6 @@ Jupyter Notebook Python 3
 ## Author:    
 ### Tin Hang
 
+## Disclaimer
+## 🔴 This isn't financial advice. Do your own research and don't use this code for investing or trading in stocks. If you're keen on the stock market, consider reading books on investment, trading, and finance. It's a good idea to talk to a professional investment advisor before making any investment choices. Keep in mind, this information is for educational purposes.  
+
