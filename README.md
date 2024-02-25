@@ -20,4 +20,4 @@ Jupyter Notebook Python 3
 ### Tin Hang
 
 ## Disclaimer
-### 🔴 This isn't financial advice. Do your own research and don't use this code for investing or trading in stocks. If you're keen on the stock market, consider reading books on investment, trading, and finance. It's a good idea to talk to a professional investment advisor before making any investment choices. Keep in mind, this information is for educational purposes.  
+### 🔴 This is not financial advice. Please conduct your own research and refrain from using this code for investing or trading in stocks. If you are interested in the stock market, consider reading books on investment, trading, and finance. It is advisable to consult with a professional investment advisor before making any investment decisions. Remember, this information is for educational purposes only.   
